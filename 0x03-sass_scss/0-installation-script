@@ -1,0 +1,8 @@
+1. Installed Node.js on my Machine
+2. Used NPM to install Sass globally:
+   ```bash
+   npm install -g sass
+   ```
+3. Verified the installation by checking the version:
+   ```bash
+   sass --version
